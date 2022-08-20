@@ -2,7 +2,7 @@ import 'mapbox-gl/dist/mapbox-gl.css';
 
 import  React, {useState, useCallback, useEffect} from 'react';
 import render from 'react-dom'
-import Map from 'react-map-gl';
+import Map, {Marker} from 'react-map-gl';
 import { useLocation } from 'react-router-dom';
 
 
