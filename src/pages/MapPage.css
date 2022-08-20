@@ -1,0 +1,12 @@
+.header{
+    background-color: aquamarine;
+    width: 100vw;
+    height: auto;
+    text-align: center;
+}
+
+.map{
+    width: 100vw;
+    height: 100vh;
+    border: 1px solid black;
+}
